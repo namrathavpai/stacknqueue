@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1607696400 source:c:\users\lenovo\documents\ads-lab\stacks_and_queues\stacknqueue.c
+	<assert.h>
+	"stacknqueue.h"
+	<stdint.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1607696094 c:\users\lenovo\documents\ads-lab\stacks_and_queues\stacknqueue.h
+	"appconst.h"
+	<stdbool.h>
+	<stdint.h>
+
+1607692800 c:\users\lenovo\documents\ads-lab\stacks_and_queues\appconst.h
+	<stdlib.h>
+	<stdio.h>
+
+1607696990 source:c:\users\lenovo\documents\ads-lab\stacks_and_queues\main.c
+	<stdlib.h>
+	<assert.h>
+	"stacknqueue.h"
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
